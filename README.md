@@ -74,6 +74,8 @@ python caesar.py
 
 После ввода верного шага `7` строка `Привет, Мир! Hello 2026` шифруется в `Цчпилщ, Упч! Hello 2026`: регистр сохранён, а запятая, восклицательный знак, латиница и цифры не изменились.
 
-<img width="900" height="794" alt="Рисунокк3" src="https://github.com/user-attachments/assets/cfa33b66-03fd-4286-a7ce-c6f021af3713" />
-<img width="891" height="267" alt="Рисунокк33" src="https://github.com/user-attachments/assets/991b4dc3-57dd-4bbd-a494-68017751df29" />
+<img width="884" height="799" alt="Рисунокк3" src="https://github.com/user-attachments/assets/11b21387-b0ee-43ab-9699-0d55056f60be" />
+
+<img width="876" height="270" alt="Рисунокк33" src="https://github.com/user-attachments/assets/6435ad54-517a-4d60-8685-66f3c71079b7" />
+
 
